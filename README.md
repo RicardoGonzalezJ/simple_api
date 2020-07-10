@@ -13,5 +13,5 @@ This is the source code for my [Simple API RESTFul using Node.js - No Frameworks
 4. Star the web server:
 `npm start`
 
-[blog]: https://wwww.cidetys.org/blog/
+[blog]: https://cidetys.org.pa/api-restful-node-js/
 
